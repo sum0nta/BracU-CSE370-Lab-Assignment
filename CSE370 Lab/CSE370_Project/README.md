@@ -1,3 +1,1 @@
-# CSE370_Project
-# CSE370_Project
-# CSE370_Project
+Music Streaming Platform with Chat Integration
